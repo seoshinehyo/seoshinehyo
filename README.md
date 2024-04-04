@@ -61,4 +61,4 @@
 </div>
 
 ## 📝 certificate
-* SQLD(SQL 개발자) - 2024.04 ~
+* SQLD(SQL 개발자) - 2024.03 ~
