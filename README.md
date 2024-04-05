@@ -62,3 +62,4 @@
 
 ## 📝 certificate
 * SQLD(SQL 개발자) - 2024.03 ~
+* 정보처리기사
