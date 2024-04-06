@@ -3,8 +3,7 @@
 * 서상효(2001.05.04) - BackEnd 🤖
 * Gachon univ. 가천대학교(2020~ ) 🏫
 * Major in Computer Science 💻
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkmustard&layout=compact&theme=panda"/>
-
+* 
 ## 🔨 Once I've used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <!-- Language -->
