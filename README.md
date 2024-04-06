@@ -1,5 +1,3 @@
-
-
 ## 🧑🏻‍💻 About Me
 * 서상효(2001.05.04) - BE
 * Gachon univ. 가천대학교(2020~ )
@@ -18,10 +16,10 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
     
 ### BackEnd
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring boot&logoColor=white"/> <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=Serverless&logoColor=white"/> 
-
 
 ### Infra
 <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"/>
@@ -37,5 +35,4 @@
 </div>
 
 ## 📝 certificate
-* SQLD(SQL 개발자) - 2024.03 ~
-* 정보처리기사
+* SQLD(SQL 개발자) - 2024.04 ~
