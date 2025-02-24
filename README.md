@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/tistory-dd2a7b%3Fstyle%3Dflat%26logo%3DInstagram%26logoColor%3Dwhite?style=flat&logo=tistory&logoColor=white&color=red&link=https%3A%2F%2Fwww.tistory.com%2F)
 
 
-| 활동명                        | 기간                    |
+| Activity Name                        | Period                    |
 | ----------------------------- | ----------------------- |
 | Gachon univ. Major in Computer Science 💻          | 2020.03 ~ ing                 |
 | Just Code It 스터디 그룹       | 2024.03 ~ ing           |
