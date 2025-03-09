@@ -4,10 +4,11 @@
 
 ## 🧑🏻‍💻 About Me
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoshinehyo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://seoshinehyo.tistory.com/"><img src="https://img.shields.io/badge/tistory-dd2a7b?style=flat&logo=tistory&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%EC%83%81%ED%9A%A8-%EC%84%9C-a77a15352/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=inspire&logoColor=white"/></a>
 <a href="https://www.instagram.com/seoshinehyo/"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@sshnote"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-![Static Badge](https://img.shields.io/badge/tistory-dd2a7b%3Fstyle%3Dflat%26logo%3DInstagram%26logoColor%3Dwhite?style=flat&logo=tistory&logoColor=white&color=red&link=https%3A%2F%2Fwww.tistory.com%2F)
+
 
 
 | Activity Name                        | Period                    |
