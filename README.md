@@ -23,7 +23,7 @@
 | Project Name | Description | Period |
 | ----------------- | ----------------- | ----------------- |
 | <a href="https://github.com/TeamMody/mody-server">mody</a> | AI를 사용한 사용자 맞춤 체형 분석, 스타일 추천, 패션 아이템 추천 + 패션 커뮤니티 | 2024.12 ~ ing |
-| <a href="https://github.com/seoshinehyo">U.M.C Product Team</a> | U.M.C 챌린저들을 위한 전용 앱 서비스 | 2025.02 ~ ing |
+| <a href="https://github.com/University-MakeUs-Challenge-ProductTeam/Product-BE">U.M.C Product Team</a> | 전국 약 30여개의 대학교가 참여하는 U.M.C 챌린저들을 위한 전용 앱 서비스 | 2025.02 ~ ing |
 
 ## Tech Stack 🛠
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
