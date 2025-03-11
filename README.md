@@ -2,6 +2,7 @@
   <img src="https://render.gitanimals.org/farms/seoshinehyo"/>
 </a>
 
+
 ## 🧑🏻‍💻 About Me
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoshinehyo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://seoshinehyo.tistory.com/"><img src="https://img.shields.io/badge/tistory-dd2a7b?style=flat&logo=tistory&logoColor=white"/></a>
@@ -24,6 +25,11 @@
 | ----------------- | ----------------- | ----------------- |
 | <a href="https://github.com/TeamMody/mody-server">mody</a> | AI를 사용한 사용자 맞춤 체형 분석, 스타일 추천, 패션 아이템 추천 + 패션 커뮤니티 | 2024.12 ~ ing |
 | <a href="https://github.com/University-MakeUs-Challenge-ProductTeam/Product-BE">U.M.C Product Team</a> | 전국 약 30여개의 대학교가 참여하는 U.M.C 챌린저들을 위한 전용 앱 서비스 | 2025.02 ~ ing |
+
+<!--
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=spring0504)](https://solved.ac/spring0504)
+-->
+
 
 ## Tech Stack 🛠
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
