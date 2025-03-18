@@ -17,7 +17,7 @@
 | Gachon univ. Major in Computer Science 💻          | 2020.03 ~ ing                 |
 | Just Code It 스터디 그룹       | 2024.03 ~ ing           |
 | IT 연합 동아리 U.M.C 7기 Spring Boot           | 2024.09 ~ 2025.02       |
-| IT 연합 동아리 U.M.C Product Team BE           | 2025.02 ~ ing           |
+| IT 연합 동아리 U.M.C 중앙 Product Team BE       | 2025.02 ~ ing           |
 | 카카오엔터프라이즈 SW 아카데미 6기              | 2025.03 ~ ing           |
 
 ## 💻 Projects
