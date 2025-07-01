@@ -66,6 +66,7 @@
 <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oculus&logoColor=white" />
+<img src="https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 
 <!--
