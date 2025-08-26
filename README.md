@@ -18,6 +18,7 @@
 | IT 연합 동아리 U.M.C 7기 Spring Boot           | 2024.09 ~ 2025.02       |
 | IT 연합 동아리 U.M.C 중앙 Product Team BE       | 2025.02 ~ 2025.08           |
 | 카카오엔터프라이즈 SW 아카데미 6기              | 2025.03 ~ 2025.08           |
+| Cloud Club 8기              | 2025.09 ~            |
 
 ## 💻 Projects
 
