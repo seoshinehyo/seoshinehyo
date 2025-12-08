@@ -111,12 +111,13 @@
 <img src="https://img.shields.io/badge/istio-466BB0?style=for-the-badge&logo=istio&logoColor=white">
 <img src="https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=for-the-badge&logo=apache%20kafka&logoColor=white" /><br>
 
-<img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oculus&logoColor=white" />
+<img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
 <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" /><br>
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oculus&logoColor=white" />
 
 <br>
 </div>
