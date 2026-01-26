@@ -10,16 +10,18 @@
 <a href="https://velog.io/@sshnote"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
 
-
 | Activity Name                        | Period                    |
 | ----------------------------- | ----------------------- |
 | Gachon univ. Major in Computer Science 💻          | 2020.03 ~ ing                 |
-| Just Code It 스터디 그룹       | 2024.03 ~ 2025.06        |
 | IT 연합 동아리 U.M.C 7기 Spring Boot           | 2024.09 ~ 2025.02       |
 | IT 연합 동아리 U.M.C 중앙 Product Team BE       | 2025.02 ~ 2025.08           |
 | 카카오엔터프라이즈 SW 아카데미 6기              | 2025.03 ~ 2025.08           |
 | 카카오엔터프라이즈 클라우드솔루션팀 인턴              | 2025.09 ~ 2025.11         |
 | Cloud Club 8기              | 2025.09 ~ 2025.12           |
+
+<!--
+| Just Code It 스터디 그룹       | 2024.03 ~ 2025.06        |
+-->
 
 ## 💻 Projects
 
@@ -34,7 +36,7 @@
 -->
 
 
-## Tech Stack 🛠
+## 🛠 Tech Stack 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 
@@ -53,10 +55,11 @@
 <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /><br>
 
+<!--
 <img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
 <img src="https://img.shields.io/badge/logstash-%23005571.svg?&style=for-the-badge&logo=logstash&logoColor=white" />
 <img src="https://img.shields.io/badge/kibana-%23005571.svg?&style=for-the-badge&logo=kibana&logoColor=white" />
-
+-->
 
 
 
@@ -126,6 +129,9 @@
 ## 📝 certificate
 * SQLD(SQL 개발자) - 2024.04 ~
 * 정보처리기사 - 2025.06 ~
+
+## 📃 Prize
+* 카카오엔터프라이즈 클라우드솔루션팀 우수 인턴 수료 - 2025.11.28
 
 <!--
 ## stats
