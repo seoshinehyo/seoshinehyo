@@ -139,9 +139,8 @@
 ## 📝 certificate
 * SQLD(SQL 개발자) - 2024.04 ~
 * 정보처리기사 - 2025.06 ~
-* [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c33f0327-702c-4ee7-931b-d038f758b84a/public_url) - 2026.02 ~ 
+* [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c33f0327-702c-4ee7-931b-d038f758b84a/public_url) - 2026.02 ~
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c33f0327-702c-4ee7-931b-d038f758b84a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## 📃 Prize
 * 카카오엔터프라이즈 클라우드솔루션팀 우수 인턴 수료 - 2025.11.28
