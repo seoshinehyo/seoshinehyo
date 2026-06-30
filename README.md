@@ -42,7 +42,7 @@
   </li>
   <li>
     <img src="https://github.com/user-attachments/assets/98052fc3-200f-4f90-af55-9141d6cc15db" width="18" align="absmiddle">&nbsp;
-    <b>IT 연합 동아리 U.M.C</b> | 중앙 Product Team BE (2025.02 ~ 2025.08)
+    <b>IT 연합 동아리 U.M.C 중앙</b> | Product Team BE (2025.02 ~ 2025.08)
   </li>
   <li>
     <img src="https://github.com/user-attachments/assets/08940a4b-c170-46fa-b1a1-2b9dc2dffb17" width="18" align="absmiddle">&nbsp;
@@ -70,13 +70,36 @@
 ## 💻 Projects
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
+<ul>
+  <li>
+    <img src="https://github.com/user-attachments/assets/dbf5619c-4db1-480c-b747-1b14d8f5041c" width="18" align="absmiddle">&nbsp;
+    <b><a href="https://github.com/TeamMody/mody-server">Mody</a></b> | AI 활용 사용자 맞춤 체형 분석, 스타일 및 패션 아이템 추천 서비스 (2024.12 ~ 2025.05)
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/1f97592f-2d49-41f6-a0cb-7eef44afe8d7" width="18" align="absmiddle">&nbsp;
+    <b><a href="https://github.com/University-MakeUs-Challenge-ProductTeam/Product-BE">U.M.C Official App</b> | 전국 약 30여개의 대학교가 참여하는 U.M.C 챌린저들을 위한 전용 앱 서비스 (2025.02 ~ 2025.08)
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/55ae7a3a-6610-44d2-a3ac-311f066e4ef1" width="18" align="absmiddle">&nbsp;
+    <b><a href="https://github.com/Commeliers/real-estate-studybot-ai">Homeprotector</a></b> | 사회 초년생들을 위한 부동산 플랫폼 서비스 (2025.03 ~ 2025.06)
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/798958e7-fc0a-4136-a34d-d7c3c84719e7" width="18" align="absmiddle">&nbsp;
+    <b>Arah</b> | 디케이테크인 기업실무 프로젝트 - 카카오워크 RAG AI 챗봇 및 관리자 웹페이지 제공 서비스 (2025.06 ~ 2025.08)
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/1d33ae40-0ed5-423a-9afd-7d3bcae7eec8" width="18" align="absmiddle">&nbsp;
+    <b><a href="https://github.com/MaxedOut-Muneo/Muneo-Server">Muneo</a></b> | RAG 기반 인테리어 시공 의사결정 도우미 솔루션 (2026.03 ~ Present)
+  </li>
+</ul>
+
+
+<!--
 | Project Name | Description | Period |
 | ----------------- | ----------------- | ----------------- |
 | <a href="https://github.com/TeamMody/mody-server">Mody</a> | AI를 사용한 사용자 맞춤 체형 분석, 스타일 추천, 패션 아이템 추천 + 패션 커뮤니티 | 2024.12 ~ 2025.05 |
 | <a href="https://github.com/University-MakeUs-Challenge-ProductTeam/Product-BE">U.M.C Product Team</a> | 전국 약 30여개의 대학교가 참여하는 U.M.C 챌린저들을 위한 전용 앱 서비스 | 2025.02 ~ 2025.08 |
 | <a href="https://github.com/Commeliers/real-estate-studybot-ai">Homeprotector</a> | 사회 초년생들을 위한 부동산 플랫폼 서비스 | 2025.03 ~ 2025.06 |
-
-<!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=spring0504)](https://solved.ac/spring0504)
 -->
 
