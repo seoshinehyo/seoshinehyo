@@ -142,6 +142,8 @@
 * SQLD(SQL 개발자) - 2024.04 ~
 * 정보처리기사 - 2025.06 ~
 * [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c33f0327-702c-4ee7-931b-d038f758b84a/public_url) - 2026.02 ~
+* TOEIC Speaking Intermediate High - 2026.03
+
 
 
 ## 📃 Prize
