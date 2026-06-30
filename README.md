@@ -44,7 +44,7 @@
   </li>
   <li>
     <img src="https://github.com/user-attachments/assets/08940a4b-c170-46fa-b1a1-2b9dc2dffb17" width="18" align="absmiddle">&nbsp;
-    <b>카카오엔터프라이즈 SW 아카데미</b> | 6th Member (2025.03 ~ 2025.08)
+    <b>KakaoEnterprise SW Academy</b> | 6th Member (2025.03 ~ 2025.08)
   </li>
   <li>
     <img src="https://github.com/user-attachments/assets/ccbf20be-be61-44ce-934e-ad01c0b04566" width="18" align="absmiddle">&nbsp;
@@ -176,15 +176,14 @@
 </div>
 
 ## 📝 certificate
-* SQLD(SQL 개발자) - 2024.04 ~
-* 정보처리기사 - 2025.06 ~
-* [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c33f0327-702c-4ee7-931b-d038f758b84a/public_url) - 2026.02 ~
-* TOEIC Speaking Intermediate High - 2026.03
-
+* SQLD(SQL 개발자) | 2024.04 ~
+* 정보처리기사 | 2025.06 ~
+* [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c33f0327-702c-4ee7-931b-d038f758b84a/public_url) | 2026.02 ~
+* TOEIC Speaking Intermediate High | 2026.03 ~
 
 
 ## 📃 Prize
-* 카카오엔터프라이즈 클라우드솔루션팀 우수 인턴 수료 - 2025.11.28
+* 카카오엔터프라이즈 클라우드솔루션팀 우수 인턴 수료 | 2025.11.28
 
 <!--
 ## stats
