@@ -2,10 +2,28 @@
   <img src="https://render.gitanimals.org/farms/seoshinehyo"/>
 </a>
 
-
-## 🧑🏻‍💻 About Me
 <a href="https://seoshinehyo.tistory.com/"><img src="https://img.shields.io/badge/tistory-dd2a7b?style=flat&logo=tistory&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%EC%83%81%ED%9A%A8-%EC%84%9C-a77a15352/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=inspire&logoColor=white"/></a>
+
+## 🧑🏻‍💻 Career
+
+<ul>
+  <li>
+    <img src="https://github.com/user-attachments/assets/c380462c-e391-4908-9fab-cea312e9ea6b" width="18" align="absmiddle">&nbsp;
+    <b>Gachon University</b> | Major in Computer Science (2020.03 ~ Present)&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Overall%20GPA-4.35%20%2F%204.5-181717?style=flat-square" align="absmiddle">&nbsp;
+    <img src="https://img.shields.io/badge/Major%20GPA-4.43%20%2F%204.5-181717?style=flat-square" align="absmiddle">
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/08940a4b-c170-46fa-b1a1-2b9dc2dffb17" width="18" align="absmiddle">&nbsp;
+    <b>KakaoEnterprise</b> | Cloud Solution Intern (2025.09 ~ 2025.11)
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/4810f36a-a5c0-41f3-8b49-7d6f7837b260" width="18" align="absmiddle">&nbsp;
+    <b>NHN Cloud</b> | AX Consultant Intern (2026.07 ~ Present)
+  </li>
+</ul>
+
 
 <!--
 <a href="https://www.instagram.com/seoshinehyo/"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -13,6 +31,7 @@
 -->
 
 
+## 💻 Activities
 | Activity Name                        | Period                    |
 | ----------------------------- | ----------------------- |
 | Gachon univ. Major in Computer Science 💻          | 2020.03 ~ ing                 |
@@ -22,6 +41,7 @@
 | 카카오엔터프라이즈 클라우드솔루션팀 인턴              | 2025.09 ~ 2025.11         |
 | Cloud Club 8기              | 2025.09 ~ 2025.12           |
 | NHN Cloud 클라우드 TC팀 인턴            | 2026.07 ~ ing           |
+
 
 
 <!--
