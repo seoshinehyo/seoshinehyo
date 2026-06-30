@@ -2,8 +2,8 @@
   <img src="https://render.gitanimals.org/farms/seoshinehyo"/>
 </a>
 
-<a href="https://seoshinehyo.tistory.com/"><img src="https://img.shields.io/badge/tistory-dd2a7b?style=flat&logo=tistory&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%EC%83%81%ED%9A%A8-%EC%84%9C-a77a15352/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=inspire&logoColor=white"/></a>
+<a href="https://seoshinehyo.tistory.com/"><img src="https://img.shields.io/badge/tistory-dd2a7b?style=flat&logo=tistory&logoColor=white"/></a>
 
 ## 🧑🏻‍💻 Career
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -11,7 +11,7 @@
 <ul>
   <li>
     <img src="https://github.com/user-attachments/assets/c380462c-e391-4908-9fab-cea312e9ea6b" width="18" align="absmiddle">&nbsp;
-    <b>Gachon University</b> | Major in Computer Science (2020.03 ~ Present)&nbsp;&nbsp;
+    <b>Gachon University</b> | Major in Computer Science (2020.03 ~ Present)&nbsp;
     <img src="https://img.shields.io/badge/Overall%20GPA-4.35%20%2F%204.5-181717?style=flat-square" align="absmiddle">&nbsp;
     <img src="https://img.shields.io/badge/Major%20GPA-4.43%20%2F%204.5-181717?style=flat-square" align="absmiddle">
   </li>
@@ -99,12 +99,12 @@
 #### Studying
 <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white" height="22" />&nbsp;
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apache%20kafka&logoColor=white" height="22" /><br>
 
 <img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" height="22" />&nbsp;
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/nginx-%23269539.svg?style=for-the-badge&logo=nginx&logoColor=white" height="22" />
 
 
@@ -205,16 +205,22 @@
 ## 📝 certificate
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
-* SQLD(SQL 개발자) | 2024.04 ~
-* 정보처리기사 | 2025.06 ~
-* [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c33f0327-702c-4ee7-931b-d038f758b84a/public_url) | 2026.02 ~
-* TOEIC Speaking Intermediate High | 2026.03 ~
-
+<ul>
+  <li><b>SQLD(SQL 개발자)</b> | (2024.04)</li>
+  <li><b>정보처리기사</b> | (2025.06)</li>
+  <li>
+    <b>AWS Certified Solutions Architect – Associate</b> | (2026.02) &nbsp;
+    <a href="https://www.credly.com/badges/c33f0327-702c-4ee7-931b-d038f758b84a/public_url" target="_blank">
+      <img src="https://img.shields.io/badge/Credly-Verify-🎨?style=flat-square&logo=credly&logoColor=white" height="18" align="absmiddle">
+    </a>
+  </li>
+  <li><b>TOEIC Speaking - Intermediate High</b> | (2026.03)</li>
+</ul>
 
 ## 📃 Prize
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
-* 카카오엔터프라이즈 클라우드솔루션팀 우수 인턴 수료 | 2025.11.28
+* **카카오엔터프라이즈 클라우드솔루션팀 우수 인턴 수료** | (2025.11)
 
 <!--
 ## stats
