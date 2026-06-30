@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/%EC%83%81%ED%9A%A8-%EC%84%9C-a77a15352/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=inspire&logoColor=white"/></a>
 
 ## 🧑🏻‍💻 Career
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 <ul>
   <li>
@@ -32,6 +33,7 @@
 
 
 ## 💻 Activities
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 <ul>
   <li>
@@ -66,6 +68,7 @@
 -->
 
 ## 💻 Projects
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 | Project Name | Description | Period |
 | ----------------- | ----------------- | ----------------- |
@@ -82,14 +85,51 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 
-### Main Skills 
+#### Main Skills 
+<img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22" /><br>
+<img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/spring_data_jpa-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="22" /><br>
+<img src="https://img.shields.io/badge/KakaoCloud-yellow?style=for-the-badge&logo=kakao&logoColor=black" height="22" />
+<img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?style=for-the-badge&logo=amazon%20aws&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="22" />
 
+#### Studying
+<img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white" height="22" />&nbsp;
+<img src="https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apache%20kafka&logoColor=white" height="22" /><br>
+
+<img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" height="22" />&nbsp;
+<img src="https://img.shields.io/badge/nginx-%23269539.svg?style=for-the-badge&logo=nginx&logoColor=white" height="22" />
+
+
+
+<!--
+<img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/istio-466BB0?style=for-the-badge&logo=istio&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white" /> 
+<img src="https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=for-the-badge&logo=apache%20kafka&logoColor=white" /><br>
+
+<img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" /> 
+<img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oculus&logoColor=white" />
+-->
+
+
+
+<!--
 <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
 
-<!--
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
--->
+
 
 <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/spring_data_jpa-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
@@ -99,7 +139,8 @@
 <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /><br>
-
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+-->
 <!--
 <img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
 <img src="https://img.shields.io/badge/logstash-%23005571.svg?&style=for-the-badge&logo=logstash&logoColor=white" />
@@ -155,27 +196,15 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> 
 -->
 
-### Studying
-<img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/istio-466BB0?style=for-the-badge&logo=istio&logoColor=white">
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white" /> 
-<img src="https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=for-the-badge&logo=apache%20kafka&logoColor=white" /><br>
 
-<img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" /> 
-<img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" /><br>
-
-<!--
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oculus&logoColor=white" />
--->
 
 
 <br>
 </div>
 
 ## 📝 certificate
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+
 * SQLD(SQL 개발자) | 2024.04 ~
 * 정보처리기사 | 2025.06 ~
 * [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c33f0327-702c-4ee7-931b-d038f758b84a/public_url) | 2026.02 ~
@@ -183,6 +212,8 @@
 
 
 ## 📃 Prize
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+
 * 카카오엔터프라이즈 클라우드솔루션팀 우수 인턴 수료 | 2025.11.28
 
 <!--
