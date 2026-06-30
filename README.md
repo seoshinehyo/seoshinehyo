@@ -32,6 +32,27 @@
 
 
 ## 💻 Activities
+
+<ul>
+  <li>
+    <img src="https://github.com/user-attachments/assets/adbe4835-a018-4579-8d6f-68c0de5ea49d" width="18" align="absmiddle">&nbsp;
+    <b>IT 연합 동아리 U.M.C</b> | 7기 Spring Boot (2024.09 ~ 2025.02)
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/98052fc3-200f-4f90-af55-9141d6cc15db" width="18" align="absmiddle">&nbsp;
+    <b>IT 연합 동아리 U.M.C</b> | 중앙 Product Team BE (2025.02 ~ 2025.08)
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/08940a4b-c170-46fa-b1a1-2b9dc2dffb17" width="18" align="absmiddle">&nbsp;
+    <b>카카오엔터프라이즈 SW 아카데미</b> | 6th Member (2025.03 ~ 2025.08)
+  </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/ccbf20be-be61-44ce-934e-ad01c0b04566" width="18" align="absmiddle">&nbsp;
+    <b>Cloud Club</b> | 8th Member (2025.09 ~ 2025.12)
+  </li>
+</ul>
+
+<!--
 | Activity Name                        | Period                    |
 | ----------------------------- | ----------------------- |
 | Gachon univ. Major in Computer Science 💻          | 2020.03 ~ ing                 |
@@ -41,10 +62,6 @@
 | 카카오엔터프라이즈 클라우드솔루션팀 인턴              | 2025.09 ~ 2025.11         |
 | Cloud Club 8기              | 2025.09 ~ 2025.12           |
 | NHN Cloud 클라우드 TC팀 인턴            | 2026.07 ~ ing           |
-
-
-
-<!--
 | Just Code It 스터디 그룹       | 2024.03 ~ 2025.06        |
 -->
 
