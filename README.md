@@ -206,21 +206,21 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 <ul>
-  <li><b>SQLD(SQL 개발자)</b> | (2024.04)</li>
-  <li><b>정보처리기사</b> | (2025.06)</li>
+  <li><b>SQLD(SQL 개발자)</b> | (2024.04.05)</li>
+  <li><b>정보처리기사</b> | (2025.06.13)</li>
   <li>
-    <b>AWS Certified Solutions Architect – Associate</b> | (2026.02) &nbsp;
+    <b>AWS Certified Solutions Architect – Associate</b> | (2026.02.14) &nbsp;
     <a href="https://www.credly.com/badges/c33f0327-702c-4ee7-931b-d038f758b84a/public_url" target="_blank">
       <img src="https://img.shields.io/badge/Credly-Verify-🎨?style=flat-square&logo=credly&logoColor=white" height="18" align="absmiddle">
     </a>
   </li>
-  <li><b>TOEIC Speaking - Intermediate High</b> | (2026.03)</li>
+  <li><b>TOEIC Speaking - Intermediate High</b> | (2026.03.29)</li>
 </ul>
 
 ## 📃 Prize
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
-* **카카오엔터프라이즈 클라우드솔루션팀 우수 인턴 수료** | (2025.11)
+* **카카오엔터프라이즈 클라우드솔루션팀 우수 인턴 수료** | (2025.11.28)
 
 <!--
 ## stats
