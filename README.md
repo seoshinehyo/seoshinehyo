@@ -32,7 +32,7 @@
 -->
 
 
-## 💻 Activities
+## 💻 Activity
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 <ul>
@@ -72,7 +72,7 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 
-#### Main Skills 
+#### Main Skill
 <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22" /><br>
 <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" height="22" />
@@ -187,7 +187,7 @@
 </div>
 
 
-## 💻 Projects
+## 💻 Project
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 <ul>
@@ -224,7 +224,7 @@
 -->
 
 
-## 📝 certificate
+## 📝 Certificate
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 <ul>
