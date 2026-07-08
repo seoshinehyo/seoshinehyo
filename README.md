@@ -21,7 +21,7 @@
   </li>
   <li>
     <img src="https://github.com/user-attachments/assets/4810f36a-a5c0-41f3-8b49-7d6f7837b260" width="18" align="absmiddle">&nbsp;
-    <b>NHN Cloud</b> | Technical Architect Intern (2026.07 ~ Present)
+    <b>NHN Cloud</b> | Technical Consulting Intern (2026.07 ~ Present)
   </li>
 </ul>
 
