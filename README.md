@@ -16,21 +16,23 @@
     <img src="https://img.shields.io/badge/Major%20GPA-4.43%20%2F%204.5-181717?style=flat-square" align="absmiddle">
   </li>
   <li>
-    <img src="https://github.com/user-attachments/assets/08940a4b-c170-46fa-b1a1-2b9dc2dffb17" width="18" align="absmiddle">&nbsp;
+    <img src="https://github.com/user-attachments/assets/8956ce90-ab74-41a5-a60b-729a445d6776" width="18" align="absmiddle">&nbsp;
     <b>KakaoEnterprise</b> | Cloud Solution Intern (2025.09 ~ 2025.11)
   </li>
   <li>
-    <img src="https://github.com/user-attachments/assets/4810f36a-a5c0-41f3-8b49-7d6f7837b260" width="18" align="absmiddle">&nbsp;
-    <b>NHN Cloud</b> | Technical Consulting Intern (2026.07 ~ Present)
+    <img src="https://github.com/user-attachments/assets/22a4f187-a738-461b-9449-5fae00f50fde" width="18" align="absmiddle">&nbsp;
+    <b>NHN Cloud</b> | Technical Consulting Intern (2026.07 ~ 2026.09)
   </li>
+  <li>
+    <img src="https://github.com/user-attachments/assets/22a4f187-a738-461b-9449-5fae00f50fde" width="18" align="absmiddle">&nbsp;
+    <b>NHN Cloud</b> | Cloud AX Engineer (2026.09 ~ Present)
+  </li>  
 </ul>
-
 
 <!--
 <a href="https://www.instagram.com/seoshinehyo/"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@sshnote"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 -->
-
 
 ## 💻 Activity
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
